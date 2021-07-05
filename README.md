@@ -8,6 +8,7 @@
 
 #### 引导程序
 > 主要是用汇编开发，采用nasm和gcc对代码进行编译
+nasm test.asm -o test.bin
 
 #### CPU管理
 > 
