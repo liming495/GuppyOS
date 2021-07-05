@@ -8,7 +8,7 @@
 
 #### 引导程序
 > 主要是用汇编开发，采用nasm和gcc对代码进行编译
- nasm boot.asm -o boot.bin
+> nasm boot.asm -o boot.bin
 
 #### CPU管理
 > 
